@@ -9,7 +9,7 @@
   
 **Languages & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,django restframework)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres)](https://skillicons.dev)
   
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=divya1298)](https://git.io/streak-stats)
