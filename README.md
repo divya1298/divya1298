@@ -9,7 +9,7 @@
   
 **Languages & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,git)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divya1298&hide=javascript,css,scss,html&theme=tokyonight)  
 
